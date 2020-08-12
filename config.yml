@@ -10,9 +10,5 @@ INDIGO_FOOTER_NAV_LINKS:
     url: "/about"
   - title: "Contact"
     url: "/contact"
-  
- INDIGO_FOOTER_LEGAL_LINKS:
-- title: "Terms of service"
+  - title: "Terms of service"
       url: "/tos"
-   
-    
