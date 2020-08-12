@@ -11,5 +11,7 @@ INDIGO_FOOTER_NAV_LINKS:
   - title: "Contact"
     url: "/contact"
 INDIGO_FOOTER_LEGAL_LINKS:
-  - title: "Terms of service"
+    - title: "Terms of service"
       url: "/tos"
+    - title: "Hosted at Waridi Hub"
+      url: ""
