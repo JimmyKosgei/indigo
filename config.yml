@@ -13,7 +13,7 @@ INDIGO_FOOTER_NAV_LINKS:
   - title: "Terms of service"
       url: "/tos"
 INDIGO_FOOTER_LEGAL_LINKS:
-    - title: ""
+   - title: ""
       url: ""
-    - title: ""
+   - title: ""
       url: ""
